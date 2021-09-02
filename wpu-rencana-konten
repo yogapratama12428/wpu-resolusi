@@ -1,6 +1,8 @@
 RENCANA KONTEN WPU
 - VIDIO Javascript
-  -es 7
+  -es 6
+  ^vue
+  ^React
   -frame work java
   ^angular
   ^vue
