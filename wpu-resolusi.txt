@@ -1,0 +1,4 @@
+- WPU RESOLUSI adalah sebuah contoh penggunaan Git
+- Konsistem membuat konten 2x seminggu
+- Membuat platform untuk pengelolaan video
+- membuat form diskusi 
